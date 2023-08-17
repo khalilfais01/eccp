@@ -1,0 +1,9 @@
+AIR=background: #E20C1A17;
+MOBILIS=background: #56AF3147;
+ITSALAT=background: #0881412B;
+ASURANCE=background: #0074811A;
+DJEEZY=background: #E206130F;
+YELLOW=#FFF00E
+BLUE=#0056A3
+BLACK=#0B0B0B
+
